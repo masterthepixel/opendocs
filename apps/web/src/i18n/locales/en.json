@@ -8,7 +8,8 @@
     "buttons": {
       "get_started": "Get Started",
       "toggle_menu": "Toggle Menu",
-      "toggle_language": "Toggle Language"
+      "toggle_language": "Toggle Language",
+      "contact_us": "Contact Us"
     },
 
     "words": {
@@ -32,6 +33,26 @@
 
       "i18n": {
         "description": "Internationalization support with next-intl."
+      },
+
+      "mission": {
+        "title": "Our Mission",
+        "description": "Empowering businesses with innovative solutions and cutting-edge technology."
+      },
+
+      "team": {
+        "title": "Our Team",
+        "description": "A diverse group of experts dedicated to delivering excellence in every project."
+      },
+
+      "innovation": {
+        "title": "Innovation",
+        "description": "Constantly pushing boundaries to create better solutions for our clients."
+      },
+
+      "values": {
+        "title": "Our Values",
+        "description": "Built on integrity, collaboration, and commitment to customer success."
       },
 
       "more": {

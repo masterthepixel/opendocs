@@ -8,7 +8,8 @@
     "buttons": {
       "get_started": "Começar",
       "toggle_menu": "Alternar Menu",
-      "toggle_language": "Alternar Idioma"
+      "toggle_language": "Alternar Idioma",
+      "contact_us": "Entre em Contato"
     },
 
     "words": {
@@ -32,6 +33,26 @@
 
       "i18n": {
         "description": "Suporte à internacionalização com next-intl."
+      },
+
+      "mission": {
+        "title": "Nossa Missão",
+        "description": "Capacitando empresas com soluções inovadoras e tecnologia de ponta."
+      },
+
+      "team": {
+        "title": "Nossa Equipe",
+        "description": "Um grupo diversificado de especialistas dedicados a entregar excelência em cada projeto."
+      },
+
+      "innovation": {
+        "title": "Inovação",
+        "description": "Constantemente ultrapassando limites para criar melhores soluções para nossos clientes."
+      },
+
+      "values": {
+        "title": "Nossos Valores",
+        "description": "Construído sobre integridade, colaboração e compromisso com o sucesso do cliente."
       },
 
       "more": {
